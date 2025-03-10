@@ -1,5 +1,7 @@
 # Statistical-Measures
 
+This project analyzes property prices in Bangalore, focusing on price per square foot. The goal is to detect and handle outliers using various statistical methods and visualize the data for better insights.
+
 Dataset : https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing
 
 Q1. Perform basic EDA.
